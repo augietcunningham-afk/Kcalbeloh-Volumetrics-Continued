@@ -9,6 +9,8 @@ Here is the link to the original: https://github.com/ProximaCentauri-star/Kcaleb
 
 I highly recommend using deferred rendering with Parallax continued. Links to these are included below, but follow the install instructions. https://github.com/LGhassen/Deferred https://github.com/Gameslinx/Parallax-Continued
 
+In order for Parallax to work with Kcalbeloh, you must download Kcalbeloh Parallax, linked in the Parallax repo.
+
 Feel free to edit and use these however you may wish, as long as you don't sell these configs, as that is illegal. :)
 
 (DISCLAIMER: NONE OF THESE MODS ARE MY OWN. I USE THEM UNDER MIT LICENSE.) (The Paid Volumetric Clouds mod is a dependency, and no assets are used in any way in this code.)

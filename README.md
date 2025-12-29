@@ -17,7 +17,7 @@ In order for Parallax to work with Kcalbeloh, you must download Kcalbeloh Parall
 
 Feel free to edit and use these however you may wish, as long as you don't sell these configs, as that is illegal. :)
 
-(DISCLAIMER: NONE OF THESE MODS ARE MY OWN. I USE THEM UNDER MIT LICENSE.) (The Paid Volumetric Clouds mod is a dependency, and no assets are used in any way in this code.)
+(DISCLAIMER: NONE OF THESE MODS ARE MY OWN. I USE THEM UNDER MIT LICENSE.) (The Paid Volumetric Clouds mod is a dependency, and no assets are redistributed in any way in this mod.)
 
 
 

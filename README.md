@@ -5,7 +5,7 @@ Currently, it adds clouds to 3 bodies, Efil, Sera and Noyreg. Sera's clouds are 
 
 INSTALL INSTRUCTIONS:
 
-Enter the Kcalbeloh Volumetrics folder once downloaded. Drag the KcalbelohVolumetrics folder into your gamedata, and delete the KcalbelohTextures EVE folder entirely.
+Enter the Kcalbeloh Volumetrics folder once downloaded. Drag the KcalbelohVolumetrics folder into your gamedata, and delete the KcalbelohTextures/EVE/PQS file entirely.
 
 Here is the link to the original: https://github.com/ProximaCentauri-star/KcalebelohVolumetrics 
 Here is a link to BlackRack's patreon: https://www.patreon.com/posts/true-volumetric-94613561 

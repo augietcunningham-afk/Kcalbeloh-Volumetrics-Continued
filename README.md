@@ -1,11 +1,10 @@
 # Kcalbeloh-Volumetrics-Continued
-This is a update to another mod, made by me to keep the visuals of the amazing mod Kcalbeloh relevant. It edits another user's mod, and fixes it to work with the latest version of Kcalbeloh, and the second latest version of Volumetric Clouds by BlackRack, EVE Volumetrics Release 4. The mod is made originally by ProximaCentauriStar, and has likely been abandoned. I am using her code under the creative commons/MIT license. No copies of paid content are included in this mod, as that is illegal. If you want to use this mod, you must subscribe to BlackRacks patreon. You only need to do this once for access to all builds of Volumetric Clouds.
 
-Currently, it adds clouds to 3 bodies, Efil, Sera and Noyreg. Sera's clouds are very WIP, but Efil and Noyreg are nearly complete.
+This mod adds clouds to most of the major bodies in the Kcalbeloh System mod. It is currently undergoing a revamp, to bring it up to date with modern visual mods.
 
 INSTALL INSTRUCTIONS:
 
-Enter the Kcalbeloh Volumetrics folder once downloaded. Drag the KcalbelohVolumetrics folder into your gamedata, and delete the KcalbelohTextures/EVE/PQS file entirely.
+Enter the Kcalbeloh Volumetrics folder once downloaded. Drag the KcalbelohVolumetrics folder into your gamedata.
 
 Here is the link to the original: https://github.com/ProximaCentauri-star/KcalebelohVolumetrics 
 Here is a link to BlackRack's patreon: https://www.patreon.com/posts/true-volumetric-94613561 
@@ -17,7 +16,7 @@ In order for Parallax to work with Kcalbeloh, you must download Kcalbeloh Parall
 
 Feel free to edit and use these however you may wish, as long as you don't sell these configs, as that is illegal. :)
 
-(DISCLAIMER: NONE OF THESE MODS ARE MY OWN. I USE THEM UNDER MIT LICENSE.) (The Paid Volumetric Clouds mod is a dependency, and no assets are redistributed in any way in this mod.)
+(The Paid Volumetric Clouds mod is a dependency, and no assets are redistributed in any way in this mod.)
 
 
 
